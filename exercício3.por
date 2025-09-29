@@ -10,7 +10,7 @@ programa {
     } senao {
       escreva("O número ", num, " é ÍMPAR.\n")
     }
-  }
-}   
-  }
-}
+    }
+}  
+
+  
